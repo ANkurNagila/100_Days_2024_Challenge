@@ -7,11 +7,7 @@
 
 ## 2. String Encode Decode  
 **Link:**  https://neetcode.io/problems/string-encode-and-decode  
-<<<<<<< HEAD
 **Tags:** Array, ....... (Alternative Methods Possible)  
-=======
-**Tags:** Array, ....... (Not Done Fully)  
->>>>>>> 3a5e8ff34f828810d4479283ac8fa3ddd48715dd
 
 
 ## 3. Products of Array Discluding Self  
@@ -27,7 +23,6 @@
 ## 5. Increasing Array  
 **Link:**  https://cses.fi/problemset/task/1094   
 **Tags:** Basic Array, Maths  
-<<<<<<< HEAD
 
 
 ## 6. Valid Sudoku  
@@ -36,6 +31,4 @@
 
 ## 7. Longest Consecutive Sequence    
 **Link:**  https://neetcode.io/problems/longest-consecutive-sequence     
-**Tags:** Array , HashMap , Heap 
-=======
->>>>>>> 3a5e8ff34f828810d4479283ac8fa3ddd48715dd
+**Tags:** Array , HashMap , Heap  
