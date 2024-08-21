@@ -25,11 +25,6 @@
 **Tags:** Array , Basic Maths  
 
 
-## 5.  Permutations (Problem - 5)  
-**Link:**  https://cses.fi/problemset/task/1070     
-**Tags:** Array , Basic Maths  
-
-
 ## 6.  Valid Parentheses  
 **Link:**  https://neetcode.io/problems/validate-parentheses      
 **Tags:** String , Stack    
