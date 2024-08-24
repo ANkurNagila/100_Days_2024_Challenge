@@ -24,3 +24,7 @@
 **Link:**  https://neetcode.io/problems/number-of-one-bits      
 **Tags:** Maths  
 
+
+## 6. Bit Strings    
+**Link:** https://cses.fi/problemset/task/1617/       
+**Tags:** Maths  
