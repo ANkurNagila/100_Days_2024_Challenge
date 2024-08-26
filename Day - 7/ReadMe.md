@@ -40,6 +40,6 @@
 **Tags:** Binary Tree  
 
 
-## 9. Trailing Zeros - (CSES Problem - )   
+## 9. Trailing Zeros - (CSES Problem)   
 **Link:** https://cses.fi/problemset/task/1618      
 **Tags:** Maths  
