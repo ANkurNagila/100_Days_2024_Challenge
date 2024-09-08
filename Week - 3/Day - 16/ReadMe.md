@@ -12,4 +12,4 @@
 
 ## 3. House Robber 2    
 **Link:** https://neetcode.io/problems/house-robber-ii       
-**Tags:** Dynamic Programming  
+**Tags:** Dynamic Programming - Memoization
